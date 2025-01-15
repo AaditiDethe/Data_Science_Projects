@@ -11,11 +11,13 @@
 3. Technologies used:
   Programming Language: Python
   Libraries:
-    # Data Handling:
-       pandas, NumPy
-    #Text Preprocessing: NLTK, re
-    Model Building: scikit-learn, TensorFlow (optional for deep learning)
-    Visualization: matplotlib, seaborn
+    Data Handling: pandas, NumPy.
+   
+     Text Preprocessing: NLTK, re.
+   
+     Model Building: scikit-learn, TensorFlow (optional for deep learning).
+   
+     Visualization: matplotlib, seaborn.
 
 5. Data set used:
   The dataset used for this project includes a collection of restaurant reviews. Each review is labeled as positive or negative.
