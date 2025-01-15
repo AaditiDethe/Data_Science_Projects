@@ -4,11 +4,14 @@
 
 1. Features:
   Preprocessing: Cleans and prepares raw textual data for analysis.
+
   Sentiment Classification: Classifies reviews as positive or negative.
+  
   Visualization: Displays key insights such as the distribution of sentiments.
+  
   Model Performance: Evaluates and compares the performance of various machine learning models.
 
-2. Technologies used:
+3. Technologies used:
   Programming Language: Python
   Libraries:
     Data Handling: pandas, NumPy
@@ -16,22 +19,22 @@
     Model Building: scikit-learn, TensorFlow (optional for deep learning)
     Visualization: matplotlib, seaborn
 
-3. Data set used:
+4. Data set used:
   The dataset used for this project includes a collection of restaurant reviews. Each review is labeled as positive or negative.
   Restaurant_Reviews.tsv
 
-4. Project Workflow:
+5. Project Workflow:
   Loadind data,
   Data Preprocessing,
   Model Building,
   Predictions.
 
-5. Model Accuracy, Precision and Recall:
+6. Model Accuracy, Precision and Recall:
   Accuracy score is: 95.0%
   Precision score is: 0.89
   Recall score is: 1.0
 
-6. Example:
+7. Example:
   Input: "The food was fantastic, and the service was excellent!"
   Output: Sentiment: Positive
   Input: "The food was cold and tasteless. Terrible experience."
